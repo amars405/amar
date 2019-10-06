@@ -1,2 +1,2 @@
 # amar
-python  enthusiast ready learn everything.
+python  enthusiast ready to learn everything.
